@@ -28,3 +28,4 @@ def add_it_up(n):
     except TypeError:
         result = 0
     return result
+    
